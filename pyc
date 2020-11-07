@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker run -it -p8888:8888 --mount type='bind',source='/Users/dev/a/python_container',target='/work' pyy
+
