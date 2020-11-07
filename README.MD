@@ -5,3 +5,7 @@
 3. Execute script to run container:<br>
 ```./pyc```<br>
 4. Copy last line to browser to start jupyter notebook session
+<br>
+<br>
+pyc: script to run the container<br>
+script.sh: script to run inside container to start jupyter notebook
