@@ -4,7 +4,7 @@
 ```docker build -t pyy .```<br>
 3. Execute script to run container:<br>
 ```./pyc```<br>
-4. Copy last line displayed at bottom of terminal to browser adress bar (in host machine) to start jupyter notebook session
+4. Copy last line displayed at bottom of terminal to browser address bar (in host machine) to start jupyter notebook session
 <br>
 <br>
 pyc: script to run the container<br>
